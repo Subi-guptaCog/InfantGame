@@ -1,0 +1,6 @@
+{
+  "name": "Baby Sensory Game",
+  "description": "An interactive sensory game for infants with sound effects, baby Giggles, background color flashing on clicks/keys, and five distinct play levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
